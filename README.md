@@ -1,2 +1,0 @@
-# Raj-devops
-practice Docker
